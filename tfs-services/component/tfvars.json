@@ -1,0 +1,15 @@
+{
+    "rg_suffix": "speech",
+    "vm_count": 2,
+    "component": "audio",
+    "location": "westus",
+    "vm_sku": "Standard_D4as_v4",
+    "env": "psr",
+    "product": "speech",
+    "enable_zone": "false",
+    "region_suffix": "wu",
+    "pci_type": "cde",
+    "increase_nic": "false",
+    "nsg_name": "null",
+    "nic_count": "null"
+}

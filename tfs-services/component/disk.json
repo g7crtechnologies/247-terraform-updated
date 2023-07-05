@@ -1,0 +1,11 @@
+{
+  "rg_suffix": "speech",
+  "env": "prod",
+  "component": "audio",
+  "location": "westus",
+  "disk_sku": "Standard_LRS",
+  "disk_sizes": [100],
+  "number_of_vms": 2,
+  "use_zone" : false
+}
+
